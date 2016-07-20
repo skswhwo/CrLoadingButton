@@ -2,7 +2,7 @@
 
 UIButton that include loading state
 
-<!--![alt text](https://github.com/skswhwo/CrLoadingButton/blob/master/sample1.gif "demo")-->
+![alt text](https://github.com/skswhwo/CrLoadingButton/blob/master/sample1.gif "demo")
 
 ## Installation
 
