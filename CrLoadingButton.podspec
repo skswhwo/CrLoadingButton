@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CrLoadingButton'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.platform         = :ios, '7.0'
   s.summary          = 'UIButton that include loading state'
   s.homepage         = 'https://github.com/skswhwo/CrLoadingButton'

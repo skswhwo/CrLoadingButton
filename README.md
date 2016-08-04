@@ -9,15 +9,15 @@ UIButton that include loading state
 CrLoadingButton is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```
+`
 pod "CrLoadingButton"
-```
+`
 
 And then run:
 
-```
+`
 $ pod install
-```
+`
 
 ## Usage
 
