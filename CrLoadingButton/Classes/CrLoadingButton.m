@@ -3,7 +3,6 @@
 
 @interface CrLoadingButton ()
 
-@property (nonatomic, strong) UIActivityIndicatorView *activityIndicator;
 @property (nonatomic, strong) NSString *disabledTitle;
 
 @end

@@ -17,6 +17,7 @@ typedef void(^CrLoadingButtonCallback)(CrLoadingButton *button);
 @property (nonatomic, assign) BOOL hideButtonWhenActive;
 @property (nonatomic, assign) BOOL active;
 @property (nonatomic, strong) CrLoadingButtonCallback didSelect;
+@property (nonatomic, strong) UIActivityIndicatorView *activityIndicator;
 
 - (void)setActivityIndicatorStyle:(UIActivityIndicatorViewStyle)activityIndicatorStyle;
 
